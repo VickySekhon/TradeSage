@@ -4,7 +4,6 @@ TradeSage is a platform designed to help small Canadian businesses navigate supp
 
 DoraHacks submission: https://dorahacks.io/buidl/23017
 
-
 \
 ![Screenshot 2025-02-23 191021](https://github.com/user-attachments/assets/abe4e215-e152-4272-95af-fa795de29d95)
 
